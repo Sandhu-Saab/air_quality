@@ -35,4 +35,4 @@ def studentinfo(request):
 def website(request):
     return render(request, 'index.html')
 
-#aa looo
+#aa loooadhdkjfkdjfksdfkjdsfhkjd
